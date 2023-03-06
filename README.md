@@ -25,4 +25,4 @@ It relies on a blockhash in the past (predictable, though obfuscated a BIT with 
 
 My understanding is that it would be a tricky and expensive task to manipulate the RNG of the contract.
 The low reward should hopefully result in any attack being a net negative financially, though I'm always happy to see someone prove me wrong!
-(so if you CAN break it, please do!)
+(so if you CAN break it, please do! But also please show me how!)
